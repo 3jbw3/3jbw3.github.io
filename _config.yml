@@ -22,7 +22,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://glow.williams.edu/"
+    - Glow: "https://glow.williams.edu/"
   # Author's home: "https://deanattali.com"
 
 ################
