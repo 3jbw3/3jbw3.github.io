@@ -33,11 +33,15 @@ When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they 
 
 How about a yummy crepe?
 
-![John](https://3jbw3.github.io/assets/img/JohnWalden_ASIP24_Pic1.JPG | width=25) 
+![John](https://3jbw3.github.io/assets/img/JohnWalden_ASIP24_Pic1.JPG)  
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://3jbw3.github.io/assets/img/JohnWalden_ASIP24_Pic1.JPG){: .mx-auto.d-block :}
+
+Try this: 
+<img src="https://3jbw3.github.io/assets/img/JohnWalden_ASIP24_Pic1.JPG" alt="image" width="50"/>
+
 
 Here's a code chunk:
 
